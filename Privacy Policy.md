@@ -2,33 +2,36 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
 <body>
-  <h1>Privacy Policy</h1>
-  <p>This privacy policy applies to the 2D Runner Game developed by [Your Company or Developer Name].</p>
+  <h1>Privacy Policy for Irz Düşmanı Icardi</h1>
 
-  <h2>Information We Collect</h2>
-  <p>We collect the following user data for gameplay and leaderboard functionality:</p>
+  <p>This Privacy Policy explains how we handle your data when you use our 2D runner game, <strong>Irz Düşmanı Icardi</strong>.</p>
+
+  <h2>1. Information We Collect</h2>
   <ul>
-    <li>Player name (entered voluntarily)</li>
-    <li>High scores</li>
-    <li>Device IP address (automatically collected for server interaction)</li>
+    <li><strong>Player name:</strong> Entered voluntarily by the user for high score leaderboard display.</li>
+    <li><strong>High scores:</strong> Saved locally or on our server to maintain the leaderboard.</li>
+    <li><strong>IP address:</strong> May be automatically collected by the server for technical and security reasons.</li>
   </ul>
 
-  <h2>How We Use Information</h2>
-  <p>The collected information is used solely for displaying high scores in the leaderboard. No personal identification or tracking is performed beyond this purpose.</p>
+  <h2>2. How We Use This Information</h2>
+  <p>We use the collected data solely to display player names and scores in the leaderboard. The IP address is used for basic server operations and is not used for tracking or profiling users.</p>
 
-  <h2>Third-Party Services</h2>
-  <p>This app does not integrate third-party analytics or advertising services.</p>
+  <h2>3. Data Sharing</h2>
+  <p>We do not sell or share your data with third parties. All data is used internally to provide a better gaming experience.</p>
 
-  <h2>Children's Privacy</h2>
-  <p>This game is intended for users aged 13 and older. We do not knowingly collect personal data from children under 13.</p>
+  <h2>4. Children’s Privacy</h2>
+  <p>This application is not targeted at children under the age of 13. We do not knowingly collect personal data from children.</p>
 
-  <h2>Data Security</h2>
-  <p>We take reasonable measures to protect user data from unauthorized access or misuse.</p>
+  <h2>5. Data Security</h2>
+  <p>We implement standard security measures to protect your information. However, no method of transmission over the Internet is 100% secure.</p>
 
-  <h2>Contact</h2>
-  <p>If you have any questions about this Privacy Policy, please contact us at: <strong>[Your Email]</strong></p>
+  <h2>6. Contact</h2>
+  <p>If you have any questions about this policy, please contact us at: <a href="mailto:matteknolojiltd@gmail.com">matteknolojiltd@gmail.com</a></p>
+
+  <p>Last updated: May 2025</p>
 </body>
 </html>
